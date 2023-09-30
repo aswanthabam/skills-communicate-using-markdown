@@ -8,3 +8,10 @@
 ```python
 print("Maximum :",max([(lambda x:int(x) if x.isdigit() else exit("Enter a valid number"))(i) for i in input("Enter elements: ").split()]))
 ```
+
+### Task list
+
+- [ ] Sleep
+- [ ] Eat
+- [ ] Code
+- [ ] Repeat
